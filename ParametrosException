@@ -1,0 +1,9 @@
+package DesafioCotroleFluxo;
+
+public class ParametrosInvalidosException {
+	
+	class ParametrosException extends Exception {
+		
+	}
+		
+}
